@@ -1,3 +1,3 @@
-- Git rất hữu ích
-- Quản lý code dễ dàng
-- Hỗ trợ teamwork tốt
+Git thật thú vị
+Git giúp quản lý code
+Git hỗ trợ teamwork
