@@ -1,4 +1,4 @@
-﻿Hello, this is <trương thành đô>
+﻿Xin Chào, tôi là <Thành Đô>
 Giới thiệu cá nhân:
 Tôi là Nguyễn Văn A, sinh viên năm 3 ngành CNTT.
 Tôi yêu thích công nghệ và muốn trở thành lập trình viên.
