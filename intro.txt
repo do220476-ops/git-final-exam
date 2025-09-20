@@ -1,4 +1,4 @@
-Giới thiệu cá nhân:
+﻿Giới thiệu cá nhân:
 Tôi là Nguyễn Văn A, sinh viên năm 3 ngành CNTT.
 Tôi yêu thích công nghệ và muốn trở thành lập trình viên.
 Tôi thích làm việc nhóm và học hỏi điều mới.
@@ -14,3 +14,10 @@ Kỹ năng:
 - Lập trình Python.
 - Git/GitHub.
 - Giao tiếp nhóm.
+
+Kế hoạch học tập:
+- Học Git nâng cao để quản lý code hiệu quả.
+- Thực hành dự án nhóm trên GitHub.
+- Học thêm JavaScript và React.
+- Rèn luyện kỹ năng giải quyết vấn đề qua các bài tập thuật toán.
+- Ôn tập cấu trúc dữ liệu và giải thuật.
