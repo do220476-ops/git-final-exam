@@ -1,5 +1,3 @@
 Git là một công cụ quản lý phiên bản rất mạnh mẽ.
 Git giúp làm việc nhóm dễ dàng hơn.
 Git hỗ trợ theo dõi lịch sử thay đổi.
-Git hỗ trợ branching.
-Git kết hợp tốt với GitHub.
