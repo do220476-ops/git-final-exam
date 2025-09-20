@@ -1,3 +1,5 @@
-- Git giúp quản lý phiên bản code.
+﻿- Git giúp quản lý phiên bản code.
 - Git hỗ trợ làm việc nhóm hiệu quả.
 - Git giúp dễ dàng quay lại lịch sử phát triển.
+- Git tích hợp tốt với GitHub.
+- Git giúp học cách làm việc chuyên nghiệp hơn.
