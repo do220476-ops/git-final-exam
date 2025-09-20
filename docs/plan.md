@@ -15,3 +15,6 @@
 9. Làm bài tập thực hành mỗi ngày ít nhất 2 giờ.  
 10. Viết báo cáo lại sau khi hoàn thành.  
 
+Task 1: Finish Git exam
+Task 2: Review GitHub
+Task 3: Practice stash
