@@ -1,0 +1,6 @@
+Tính năng A: 
+- Cho phép người dùng đăng nhập bằng email.
+- Lưu trữ thông tin tài khoản trong database.
+- Bảo mật bằng mật khẩu mã hóa.
+- Hỗ trợ chức năng quên mật khẩu.
+- Giao diện đơn giản, dễ sử dụng.
