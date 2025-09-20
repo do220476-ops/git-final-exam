@@ -1,6 +1,6 @@
 ﻿Hello, this is <trương thành đô>
 Giới thiệu cá nhân:
-Tôi là Nguyễn Văn A, sinh viên năm 3 ngành CNTT.
+Tôi là Trương Thành Đô, sinh viên năm 3 ngành CNTT.
 Tôi yêu thích công nghệ và muốn trở thành lập trình viên.
 Tôi thích làm việc nhóm và học hỏi điều mới.
 Tôi mong muốn nâng cao kỹ năng quản lý dự án.
