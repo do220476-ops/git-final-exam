@@ -1,4 +1,6 @@
 ﻿Hello, this is <trương thành đô>
+Xin Chào, tôi là <Trương Thành đô>
+Conflict resolved on<08/14/2004>
 Giới thiệu cá nhân:
 Tôi là Trương Thành Đô, sinh viên năm 3 ngành CNTT.
 Tôi yêu thích công nghệ và muốn trở thành lập trình viên.
